@@ -21,7 +21,10 @@
 <br>
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/fluency/344/tailwind_css.png" width="48"/>
+<img src="https://img.icons8.com/color/344/nodejs.png" width="64"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="128"/>
+
+
 
 
 
