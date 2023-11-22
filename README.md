@@ -7,9 +7,9 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Web Development Intern** at [IBTECH ULUSLARARASI BİLİŞİM VE İLETİŞİM TEKNOLOJİLERİ](https://www.ibtech.com.tr/)
+- 🏢 I am currently working as a **JUNIOR APPLICATION ENGINEER** at [IBTECH ULUSLARARASI BİLİŞİM VE İLETİŞİM TEKNOLOJİLERİ](https://www.ibtech.com.tr/)
 
-- 🎓 Studies for Computer Engineering at [Ege University](https://bilmuh.ege.edu.tr)
+- 🎓 Graduate at Computer Engineering at [Ege University](https://bilmuh.ege.edu.tr)
 - 🏡'Lives in **Izmır Turkey**
 
 
